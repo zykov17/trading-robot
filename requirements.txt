@@ -1,0 +1,12 @@
+t-tech-investments
+pandas
+numpy
+sqlalchemy
+psycopg[binary]
+fastapi
+uvicorn[standard]
+apscheduler
+streamlit
+pytest
+pytest-asyncio
+python-dotenv
